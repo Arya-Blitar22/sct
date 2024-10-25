@@ -6,7 +6,7 @@ HAPPY NEWYEAR 2024
 </p>
 
 ````
-sudo apt-get install dos2unix -y && apt install -y && wget https://raw.githubusercontent.com/Arya-Blitar22/sct/main/setup.sh && chmod +x setup.sh && dos2unix setup.sh && ./setup.sh
+apt update -y && apt install -y bzip2 gzip wget init coreutils openssl git screen curl jq && wget -q https://raw.githubusercontent.com/Arya-Blitar22/sct/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ````
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/sct/main/scp.png)
 
