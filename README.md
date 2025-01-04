@@ -1,5 +1,5 @@
 ````
-HAPPY NEWYEAR 2024
+HAPPY NEWYEAR 2025
 ````
 ### Pakek Domain Sendiri Ya Kang !
 
