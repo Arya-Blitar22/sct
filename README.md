@@ -4,6 +4,8 @@ HAPPY NEWYEAR 2025
 ### Pakek Domain Sendiri Ya Kang !
 ### OS DEBIAN 10,11 UBUNTU MAX 20.04
 
+## TIDAK PERLU IJIN IP
+
 Pilih 1Hari Auto All Menu LifeTime
 
 <p align="center">
@@ -17,7 +19,6 @@ apt update -y && apt install -y bzip2 gzip wget init coreutils openssl git scree
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/sct/main/scp.png)
 
 
-key : 13254
 ### SAYANGI JANDA KALIAN
 <a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6281931615811" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
 
